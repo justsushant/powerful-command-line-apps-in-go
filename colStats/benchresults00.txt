@@ -1,0 +1,7 @@
+goos: linux
+goarch: amd64
+pkg: pragprog.com/rggo/performance/colStats
+cpu: Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz
+BenchmarkRun-4   	      10	12993658347 ns/op
+PASS
+ok  	pragprog.com/rggo/performance/colStats	141.237s
